@@ -6,4 +6,6 @@ Includes Technniques like: Synchronous data-flow graphs, token-firings, KL graph
 Particle Swarm Optimization, Tabu Search, Simulated Annealing, Tabu Search for best map search. 
 Integrated with run-time mapping including greedy search for least compilation time.
 
+A best heterogenous core-architecture exploration to be employed during static evaluation for best offline mapping.
+
 Frameworks used: PyCARL, Noxim++, CARLSim
