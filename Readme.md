@@ -8,4 +8,4 @@ Integrated with run-time mapping including greedy search for least compilation t
 
 A best heterogenous core-architecture exploration to be employed during static evaluation for best offline mapping.
 
-Frameworks used: PyCARL, Noxim++, CARLSim
+Frameworks used: PyCARL, Noxim++, CARLSim, Machine Learning, SNN2SDF, ANN to SNN Converter
